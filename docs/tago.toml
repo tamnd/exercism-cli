@@ -1,0 +1,10 @@
+title       = "exercism"
+baseURL     = "https://exercism-cli.tamnd.com/"
+description = "Browse programming exercises on exercism.org"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/exercism-cli"
